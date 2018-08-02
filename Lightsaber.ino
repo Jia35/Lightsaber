@@ -3,7 +3,7 @@
 // #include <LWebServer.h>
 
 /* Set these to your desired credentials. */
-const char *ssid = "LinkItAP";
+const char *ssid = "Lightsaber_J";
 const char *password = "10101010";
 
 int led_pin[10] = {6,7,8,9,10,11,12,13,14,15};
