@@ -38,7 +38,7 @@ void setup() {
 }
 
 void loop() {
-    WiFiClient client = server.available();   // listen for incoming clients
+  WiFiClient client = server.available();   // listen for incoming clients
 
 	if (client) {
 		//Serial.println("new client");
